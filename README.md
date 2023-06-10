@@ -12,3 +12,4 @@ https://keras.io/examples/vision/oxford_pets_image_segmentation/
 https://github.com/keras-team/keras-io/blob/master/examples/vision/oxford_pets_image_segmentation.py
 
 E-Mail: omerburakozgur1@gmail.com
+https://github.com/omerburakozgur
