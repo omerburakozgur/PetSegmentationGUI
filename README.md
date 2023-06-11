@@ -9,7 +9,7 @@ TURKISH/
 Bu github deposunda Oxford evcil hayvan veriseti kullanılarak önceden eğitilmiş bir CNN modeli kullanarak yaptığım ve kullanıcı arayüzüne sahip bir AI projesi bulacaksınız. Proje kodlarını ve projeyi genel olarak anlattığım raporu dosyalar içinde bulabilirsiniz. AI üzerine uğraştığım ve aynı zamanda PyQt arayüz programlarını kullandığım ilk projemdi, olması gerektiği kadar iyi ve düzenli görünmüyor olabilir. Üniversite eğitimimin 3. senesinin ikinci döneminde, 2022 yılının Haziran ayında tamamamladığım bir projedir. İstediğiniz gibi kullanabilirsiniz. AI üzerine aktif olarak uğraşmasam da benimle istediğiniz gibi iletişime geçebilirsiniz. Ana uğraş alanım oyun geliştirme üzerine. 
 
 The main owner of the idea, AI Model and the whole AI structure is https://twitter.com/fchollet
-And the article link is down below, i want to thank to him for all these sources that help us.
+And the article link is down below, i want to thank to him for all these sources that helped me.
 
 https://keras.io/examples/vision/oxford_pets_image_segmentation/
 https://github.com/keras-team/keras-io/blob/master/examples/vision/oxford_pets_image_segmentation.py
